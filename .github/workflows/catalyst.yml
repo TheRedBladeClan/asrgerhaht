@@ -1,4 +1,4 @@
-name: RDP_COFFIN
+name: Catalyst
 
 on: workflow_dispatch
 
